@@ -1,0 +1,1 @@
+In this example (a simple C# Webforms app), I was given a 20x20 matrix of numbers.  The challenge was to determine which four ajacent (horiontally, veritically, or diagonally)  numbers have the greatest product.
